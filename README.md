@@ -26,3 +26,8 @@ php artisan migrate
 
 Run all tests
 php artisan test
+
+
+Task 2;;
+
+ the optimized query given in task2  filename
